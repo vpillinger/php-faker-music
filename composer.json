@@ -1,8 +1,10 @@
 {
-  "name": "rauwebieten/php-faker-music",
+  "name": "vpillinger/php-faker-music",
+  "description": "Updated version of php-faker-music for php 8.3",
+  "license": "MIT",
   "require": {
-    "fakerphp/faker": "^1.13",
-    "phpunit/phpunit": "^7.0|^8.0|^8.5|^9.0|^9.5"
+    "fakerphp/faker": "^1.23",
+    "phpunit/phpunit": "^11.0.1"
   },
   "require-dev": {
     "symfony/var-dumper": "^3.3.9"
